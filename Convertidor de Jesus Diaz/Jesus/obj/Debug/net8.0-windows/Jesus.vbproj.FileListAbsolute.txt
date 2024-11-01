@@ -1,0 +1,17 @@
+C:\Users\ferna\source\repos\Jesus\bin\Debug\net8.0-windows\Jesus.exe
+C:\Users\ferna\source\repos\Jesus\bin\Debug\net8.0-windows\Jesus.deps.json
+C:\Users\ferna\source\repos\Jesus\bin\Debug\net8.0-windows\Jesus.runtimeconfig.json
+C:\Users\ferna\source\repos\Jesus\bin\Debug\net8.0-windows\Jesus.dll
+C:\Users\ferna\source\repos\Jesus\bin\Debug\net8.0-windows\Jesus.pdb
+C:\Users\ferna\source\repos\Jesus\obj\Debug\net8.0-windows\Jesus.Form1.resources
+C:\Users\ferna\source\repos\Jesus\obj\Debug\net8.0-windows\Jesus.vbproj.GenerateResource.cache
+C:\Users\ferna\source\repos\Jesus\obj\Debug\net8.0-windows\Jesus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\source\repos\Jesus\obj\Debug\net8.0-windows\Jesus.AssemblyInfoInputs.cache
+C:\Users\ferna\source\repos\Jesus\obj\Debug\net8.0-windows\Jesus.AssemblyInfo.vb
+C:\Users\ferna\source\repos\Jesus\obj\Debug\net8.0-windows\Jesus.vbproj.CoreCompileInputs.cache
+C:\Users\ferna\source\repos\Jesus\obj\Debug\net8.0-windows\Jesus.dll
+C:\Users\ferna\source\repos\Jesus\obj\Debug\net8.0-windows\refint\Jesus.dll
+C:\Users\ferna\source\repos\Jesus\obj\Debug\net8.0-windows\Jesus.pdb
+C:\Users\ferna\source\repos\Jesus\obj\Debug\net8.0-windows\Jesus.genruntimeconfig.cache
+C:\Users\ferna\source\repos\Jesus\obj\Debug\net8.0-windows\ref\Jesus.dll
+C:\Users\ferna\source\repos\Jesus\obj\Debug\net8.0-windows\Jesus.Resources.resources

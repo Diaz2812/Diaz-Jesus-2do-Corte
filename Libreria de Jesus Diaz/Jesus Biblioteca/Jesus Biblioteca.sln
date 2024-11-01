@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Jesus Biblioteca", "Jesus Biblioteca.vbproj", "{3D52319F-DFAC-4566-BD7B-99D0A08F32E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D52319F-DFAC-4566-BD7B-99D0A08F32E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D52319F-DFAC-4566-BD7B-99D0A08F32E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D52319F-DFAC-4566-BD7B-99D0A08F32E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D52319F-DFAC-4566-BD7B-99D0A08F32E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C16B24E5-CBA2-44F6-9E61-04A2E8BCA182}
+	EndGlobalSection
+EndGlobal
